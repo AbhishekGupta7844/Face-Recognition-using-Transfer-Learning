@@ -1,3 +1,3 @@
 # Face-Recognition-using-Transfer-Learning
 
-## Face Recognition using Transfer Learning by VGG 16
+## Face Recognition using Transfer Learning and VGG 16
